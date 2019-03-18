@@ -1,5 +1,3 @@
-//ÕÅ²®Íş 2018141461065 
-
 #include<iostream>
 using namespace std;
 
